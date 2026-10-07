@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "soupsmp-lol.aternos.me:26136",
+    "port": 26136,
     "version": "",
     "try-creative": false
   },
